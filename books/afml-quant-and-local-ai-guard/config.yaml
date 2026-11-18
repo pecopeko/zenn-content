@@ -1,0 +1,18 @@
+title: "日本株AIクオンツの過学習罠と完全ローカル業務AIガード実装"
+summary: "Walk-Forward Day-Block Bagging・OOS MDA特徴量剪定・単元株100株丸め対照実験（Uniform Control）と、国税庁Mod-9/薬機法/全銀120バイト検証をAPI課金ゼロ・ブラウザ完結で動かす実践設計。"
+topics:
+  - "quant"
+  - "machinelearning"
+  - "python"
+  - "javascript"
+  - "compliance"
+published: false
+price: 2400
+toc_depth: 2
+chapters:
+  - "01-overfitting-traps"
+  - "02-dayblock-bagging-and-mda"
+  - "03-fixed-capital-and-uniform-control"
+  - "04-japanese-pii-check-digits"
+  - "05-yakki-keihyo-zengin-engines"
+  - "06-browser-local-ai-guard"

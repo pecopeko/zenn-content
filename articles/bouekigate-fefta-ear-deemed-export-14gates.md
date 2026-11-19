@@ -3,7 +3,7 @@ title: "【外為法該非判定・みなし輸出・米国EAR対応】完全ブ
 emoji: "🚢"
 type: "tech"
 topics: ["compliance", "exportcontrol", "security", "japan", "javascript"]
-published: true
+published: false
 ---
 
 製造業・ソフトウェア開発・研究機関が海外顧客や国内居住の研究者へ製品・ソースコード・技術資料を提供する際、避けて通れないのが **安全保障貿易管理（外為法＋米国EAR再輸出規制）** の実務チェックです。

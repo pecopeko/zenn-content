@@ -3,7 +3,7 @@ title: "【反社排除条項・犯収法25%超UBO・公益通報者保護法対
 emoji: "🏛️"
 type: "tech"
 topics: ["compliance", "kyc", "whistleblower", "japan", "javascript"]
-published: true
+published: false
 ---
 
 上場準備（IPO法務デューデリジェンス）や新規取引先オンボーディングにおいて、法務・総務部門が毎回確認を迫られる重要コンプライアンス要件が3つあります。

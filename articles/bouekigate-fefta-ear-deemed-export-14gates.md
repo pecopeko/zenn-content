@@ -1,5 +1,5 @@
 ---
-title: "【外為法該非判定・みなし輸出特定類型・米国EAR De Minimis対応】完全ブラウザ完結14連ゲート『BOUEKIGATE（貿易門）』の設計とローカル監査CLI"
+title: "【外為法該非判定・みなし輸出・米国EAR対応】完全ブラウザ完結14連ゲート『BOUEKIGATE』と監査CLI設計"
 emoji: "🚢"
 type: "tech"
 topics: ["compliance", "exportcontrol", "security", "japan", "javascript"]

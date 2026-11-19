@@ -1,5 +1,5 @@
 ---
-title: "【反社排除条項・犯収法25%超UBO・公益通報者保護法対応】完全ブラウザ完結13連ゲート『HANSHAGATE（清廉門）』まで揃えた実務設計"
+title: "【反社排除条項・犯収法25%超UBO・公益通報者保護法対応】ブラウザ完結13連ゲート『HANSHAGATE』実務設計"
 emoji: "🏛️"
 type: "tech"
 topics: ["compliance", "kyc", "whistleblower", "japan", "javascript"]

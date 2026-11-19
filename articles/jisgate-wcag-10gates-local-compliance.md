@@ -1,5 +1,5 @@
 ---
-title: "【改正障害者差別解消法・JIS X 8341-3 AA対応】全10連・完全ブラウザ完結日本B2Bコンプライアンスゲート群『JISGATE』まで揃えた設計まとめ"
+title: "【改正障害者差別解消法・JIS X 8341-3 AA対応】完全ブラウザ完結10連B2Bゲート『JISGATE』設計まとめ"
 emoji: "♿"
 type: "tech"
 topics: ["accessibility", "wcag", "javascript", "japan", "compliance"]

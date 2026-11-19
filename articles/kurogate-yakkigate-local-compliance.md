@@ -3,7 +3,7 @@ title: "【外部送信ゼロ】国税庁Mod-9・薬機法・全銀120バイト�
 emoji: "🛡️"
 type: "tech"
 topics: ["javascript", "compliance", "chromeextension", "japan", "ai"]
-published: true
+published: false
 ---
 
 業務文書を ChatGPT や Claude に貼る前の PII 伏せ字、LP原稿の薬機法・景表法・ステマ規制チェック、経理の T番号・全銀120バイトデータ検査を **「外部サーバーへ一切データを送らず、ブラウザ内だけで完結させる」** 無料Webツール＋Chrome拡張一式を公開しました。

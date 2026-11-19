@@ -3,7 +3,7 @@ title: "【改正労働条件通知書・固定残業・36協定80h平均】デ�
 emoji: "🕒"
 type: "tech"
 topics: ["javascript", "japan", "compliance", "hr", "saas"]
-published: true
+published: false
 ---
 
 労働条件通知書・賃金台帳・36協定の実残業時間リストには氏名・基本給・労働時間など機微な労務情報が含まれるため、社外SaaSやLLMへ気軽に貼り付けにくい領域です。そこで既存の8連ゲートに **第9の門 [ROUMUGATE（労務門）](https://pecopeko.github.io/roumugate/)** を追加し、**外部通信ゼロ（100%ブラウザ内完結）** で労基署臨検・IPO労務デューデリジェンス対策の事前セルフチェックを自動化しました。

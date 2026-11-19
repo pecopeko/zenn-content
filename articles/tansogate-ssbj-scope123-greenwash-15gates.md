@@ -3,7 +3,7 @@ title: "【SSBJ開示基準・温対法SHK・グリーンウォッシュ対応�
 emoji: "🌱"
 type: "tech"
 topics: ["sustainability", "esg", "compliance", "japan", "javascript"]
-published: true
+published: false
 ---
 
 2025年3月に確定した **SSBJサステナビリティ開示基準（S1 / S2）** や **温対法SHK制度（特定排出者 3,000 t-CO2/年 報告義務）**、さらに景品表示法・環境省「環境表示ガイドライン」に基づく **グリーンウォッシュ（根拠なきカーボンニュートラル訴求）対策** は、上場企業だけでなく中堅メーカー・物流・IT受託企業でも取引先要請として急速に広がっています。

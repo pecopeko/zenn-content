@@ -3,7 +3,7 @@ title: "【2026年10月インボイス50%＆外部送信規律対応】APIゼロ
 emoji: "🏯"
 type: "tech"
 topics: ["javascript", "japan", "compliance", "invoice", "privacy"]
-published: true
+published: false
 ---
 
 法務・経理・Web開発・EC現場の実務ルールは年々細分化していますが、未公開契約書・取引先マイナンバー・個人報酬支払データ・サイトのプライバシー設定を外部SaaSへ送ることには高いリスクが伴います。  

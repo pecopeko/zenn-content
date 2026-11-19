@@ -3,7 +3,7 @@ title: "【AI事業者ガイドライン・著作権法30条の4・シャドーA
 emoji: "⚖️"
 type: "tech"
 topics: ["ai", "governance", "copyright", "japan", "compliance"]
-published: true
+published: false
 ---
 
 企業内で生成AIやコーディングエージェントの業務導入が進む一方、情シス・法務部門では次のような現場リスクが急増しています。

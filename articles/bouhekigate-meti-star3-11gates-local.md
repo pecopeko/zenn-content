@@ -3,7 +3,7 @@ title: "【経産省サプライチェーン評価★3・★4 / PPC漏えい報�
 emoji: "🛡️"
 type: "tech"
 topics: ["security", "dmarc", "japan", "compliance", "javascript"]
-published: true
+published: false
 ---
 
 中堅・中小企業やSaaSベンダーにとって、発注元企業から毎年のように届く「情報セキュリティ対策チェックシート」への回答と、経済産業省の **サプライチェーン強化に向けたセキュリティ対策評価制度（★3・★4）**、**個人情報保護委員会（PPC）への漏えい速報（概ね3〜5日）/ 確報（30日・60日）SLA**、および **BEC対策としての SPF / DMARC 強制（`p=reject`・SPF 10ルックアップ制限）** の自己点検は大きな負担になっています。

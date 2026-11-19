@@ -3,7 +3,7 @@ title: "日本株バックテストで「Uniform-Cap Control」を入れない�
 emoji: "📈"
 type: "tech"
 topics: ["python", "quant", "afml", "machinelearning", "backtest"]
-published: false
+published: true
 ---
 
 株価予測モデルのゲート（「予測スコアが悪い日は休む」など）を評価する際、全営業日投資のベースラインだけと比較して「ドローダウンが減った・取引あたり利益が上がった」と喜ぶと、**単に稼働率を下げてポジションを縮めただけの偽エッジ** を見抜けません。

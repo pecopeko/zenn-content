@@ -3,7 +3,7 @@ title: "【完全ブラウザ完結6連ゲート】契約書(取適法)・特商
 emoji: "⚖️"
 type: "tech"
 topics: ["javascript", "japan", "compliance", "saas", "privacy"]
-published: false
+published: true
 ---
 
 日本のバックオフィス・法務・EC運営では「秘密保持・個人情報・未公開契約書を海外LLMや外部SaaSへアップロードしたくない」という現場制約が強く働きます。そこで **外部通信ゼロ（100%ブラウザローカルES Modules）** で即座に動く6つの静的コンプライアンスゲートを公開・拡張しました。

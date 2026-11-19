@@ -3,7 +3,7 @@ title: "【改正障害者差別解消法・JIS X 8341-3 AA対応】全10連・�
 emoji: "♿"
 type: "tech"
 topics: ["accessibility", "wcag", "javascript", "japan", "compliance"]
-published: false
+published: true
 ---
 
 改正障害者差別解消法により民間事業者にも「合理的配慮」が法的義務化され、あわせて自治体・EC・SaaS企業での **JIS X 8341-3:2016（WCAG 2.1 Level AA）** 準拠確認と『ウェブアクセシビリティ方針』の公表ニーズが急増しています。  

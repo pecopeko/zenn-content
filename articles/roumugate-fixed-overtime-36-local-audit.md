@@ -1,5 +1,5 @@
 ---
-title: "【2024年4月改正 労働条件通知書＆固定残業・36協定80h平均】従業員データ送信ゼロ・ブラウザ完結の労務監査『ROUMUGATE』を作った"
+title: "【改正労働条件通知書・固定残業・36協定80h平均】データ送信ゼロ・ブラウザ完結労務監査『ROUMUGATE』設計"
 emoji: "🕒"
 type: "tech"
 topics: ["javascript", "japan", "compliance", "hr", "saas"]

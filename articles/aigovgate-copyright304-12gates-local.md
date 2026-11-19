@@ -1,5 +1,5 @@
 ---
-title: "【AI事業者ガイドライン第1.1版・著作権法30条の4・シャドーAI統制】完全ブラウザ完結12連ゲート『AIGOVGATE（統治門）』まで揃えた実務設計"
+title: "【AI事業者ガイドライン・著作権法30条の4・シャドーAI統制】ブラウザ完結12連ゲート『AIGOVGATE』実務設計"
 emoji: "⚖️"
 type: "tech"
 topics: ["ai", "governance", "copyright", "japan", "compliance"]

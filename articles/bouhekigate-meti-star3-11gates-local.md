@@ -1,5 +1,5 @@
 ---
-title: "【経産省サプライチェーン評価★3・★4 / PPC漏えい報告 / SPF・DMARC対応】完全ブラウザ完結11連B2Bゲート『BOUHEKIGATE（防壁門）』を作った設計まとめ"
+title: "【経産省サプライチェーン評価★3・★4 / PPC漏えい報告 / DMARC対応】11連ゲート『BOUHEKIGATE』設計"
 emoji: "🛡️"
 type: "tech"
 topics: ["security", "dmarc", "japan", "compliance", "javascript"]

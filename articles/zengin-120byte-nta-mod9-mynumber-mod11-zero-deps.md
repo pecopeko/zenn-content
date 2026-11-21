@@ -406,3 +406,4 @@ def to_scan_text_preserve_offsets(original: str) -> str:
 今回解説した「国税庁 Mod-9 適格請求書T番号の一括検証」「全銀半角カナ正規化」「120バイト総合振込データの生成・トレーラ検算」を、外部サーバーへのデータ送信ゼロ（ブラウザ内JavaScript完結）ですぐ試せる検証ツールを公開しています。テストデータの挙動確認や経理バッチの突き合わせにご活用ください。
 
 https://pecopeko.github.io/zengingate/
+

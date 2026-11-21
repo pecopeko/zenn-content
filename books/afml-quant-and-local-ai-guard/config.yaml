@@ -1,18 +1,20 @@
-title: "日本株AIクオンツの過学習罠と完全ローカル業務AIガード実装"
-summary: "Walk-Forward Day-Block Bagging・OOS MDA特徴量剪定・単元株100株丸め対照実験（Uniform Control）と、国税庁Mod-9/薬機法/全銀120バイト検証をAPI課金ゼロ・ブラウザ完結で動かす実践設計。"
+title: "Pythonで実装する日本株バックテスト監査 — 過学習・リーク・Uniform-Cap・MDA剪定"
+summary: "「勝率改善・DD減少」の偽陽性を暴く実戦AFML監査ガイド。100株単元丸め固定資本会計、対一律縮小対照（Uniform-Cap Control）、DayBlockBaggingRegressor、Kaiser PCA、OOS MDA特徴量剪定、3段階確信度サイジング（+545,251円・Sharpe 2.501）までを、日本株・米国株の実パネル検証ログとコピペ可能なPython実装で徹底解説。第1〜2章無料公開。"
 topics:
+  - "python"
   - "quant"
   - "machinelearning"
-  - "python"
-  - "javascript"
-  - "compliance"
-published: false
-price: 2400
+  - "backtest"
+  - "finance"
+published: true
+price: 1200
 toc_depth: 2
 chapters:
-  - "01-overfitting-traps"
-  - "02-dayblock-bagging-and-mda"
-  - "03-fixed-capital-and-uniform-control"
-  - "04-japanese-pii-check-digits"
-  - "05-yakki-keihyo-zengin-engines"
-  - "06-browser-local-ai-guard"
+  - "01-why-backtests-break"
+  - "02-fixed-capital-and-lot-rounding"
+  - "03-uniform-cap-control-exposes-fake-alpha"
+  - "04-day-block-bagging-for-panels"
+  - "05-pca-kaiser-multicollinearity-audit"
+  - "06-mdi-trap-and-oos-mda-pruning"
+  - "07-conviction-lot-sizing-breakthrough"
+  - "08-reproducible-audit-harness"

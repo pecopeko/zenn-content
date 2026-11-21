@@ -502,5 +502,5 @@ def apply_3tier_conviction_sizing(
 
 今回解説した全監査モジュール（`FixedCapitalReport`、米国株 `$221.55` 1株単元丸め比較、PCA固有値監査、決済待機時間の小標本過学習 `225日 vs 27日` の実証を含む全8章・再現コード一式）は、以下の Zenn Book に体系的にまとめています。第1章・第2章は無料公開しているので、まずはコード品質を確認してみてください。
 
-https://zenn.dev/pecopeko/books/jp-quant-backtest-audit-afml
+https://zenn.dev/pecopeko/books/afml-quant-and-local-ai-guard
 

@@ -393,3 +393,5 @@ def assess_injection_risk(text: str) -> tuple[float, list[str]]:
 今回解説したチェックデジット検証・可逆Vault・インジェクション検知を、インストール不要かつブラウザ内完結（外部通信ゼロ）で試せるデモ兼リファレンス実装を公開しています。
 
 https://pecopeko.github.io/kurogate/
+
+*(2026-11-21 検証環境: Python 3.11 / Node.js v22)*

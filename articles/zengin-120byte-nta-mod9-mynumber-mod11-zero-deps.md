@@ -407,3 +407,4 @@ def to_scan_text_preserve_offsets(original: str) -> str:
 
 https://pecopeko.github.io/zengingate/
 
+*(2026-11-21 検証環境: Python 3.11 / Node.js v22)*

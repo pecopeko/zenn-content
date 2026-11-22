@@ -408,3 +408,15 @@ def to_scan_text_preserve_offsets(original: str) -> str:
 https://pecopeko.github.io/zengingate/
 
 *(2026-11-21 検証環境: Python 3.11 / Node.js v22)*
+---
+
+### 📦 実務ですぐ使える完全オフライン同梱キット ＆ 体系解説書
+
+本記事の「Shift-JIS 厳密120バイト全銀データ出力」「電帳法タイムスタンプ名PDF一括リネームZIP」「支払調書・源泉試算」「ローカルPII可逆ガード」の5ツールを、社内ネットワークから外部通信ゼロでそのまま使えるスタンドアロン同梱版としてまとめています：
+
+- **【完全オフライン・Shift-JIS実出力】経理・バックオフィス自動化5点セット v2.0（BOOTH）**：
+https://pecopeko1011.booth.pm/items/9179705
+
+また、1-to-1正規化・チェックデジット検証からローカルLLMセキュリティ・クオンツ検証基盤までを全8章で詳解したZennブックはこちらです：
+
+https://zenn.dev/pecopeko/books/afml-quant-and-local-ai-guard

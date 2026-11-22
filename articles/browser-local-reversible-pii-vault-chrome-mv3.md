@@ -395,3 +395,13 @@ def assess_injection_risk(text: str) -> tuple[float, list[str]]:
 https://pecopeko.github.io/kurogate/
 
 *(2026-11-21 検証環境: Python 3.11 / Node.js v22)*
+---
+
+### 📘 さらに深く実装したい方へ（体系解説書 ＆ オフライン実務キット）
+
+本記事の可逆 Vault・チェックデジット検証・金融バックテスト偽陽性対策までを1冊（全8章・テストコード完備）に体系化した実践書と、社内PCに置いてそのまま使える完全オフライン実務ツールキットも公開しています：
+
+https://zenn.dev/pecopeko/books/afml-quant-and-local-ai-guard
+
+- **経理・バックオフィス自動化5点セット Pro キット（Shift-JIS 全銀120B・電帳法PDF一括リネームZIP・支払調書・AI社外秘ガード収録）**：
+https://pecopeko1011.booth.pm/items/9179705

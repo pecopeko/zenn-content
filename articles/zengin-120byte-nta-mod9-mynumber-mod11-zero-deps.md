@@ -420,3 +420,5 @@ https://pecopeko1011.booth.pm/items/9179705
 また、1-to-1正規化・チェックデジット検証からローカルLLMセキュリティ・クオンツ検証基盤までを全8章で詳解したZennブックはこちらです：
 
 https://zenn.dev/pecopeko/books/afml-quant-and-local-ai-guard
+
+- **関連無料監査ツール（外部通信ゼロ）**：[Stateless MCP v2 & Firewall 監査](https://pecopeko.github.io/mcp-firewall-v2-auditor/) ／ [EU AI法50条・C2PAバイナリ検証](https://pecopeko.github.io/c2pa-ai-act50-auditor/)

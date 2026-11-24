@@ -1,5 +1,5 @@
 ---
-title: "Google×Shopify×Stripe『/.well-known/ucp』実装入門：AP2決済マンデート・extends DAG検証と1クリック生成"
+title: "Google×Shopify UCP実装解説：/.well-known/ucp検証とAIエージェント決済対応"
 emoji: "🛒"
 type: "tech"
 topics: ["shopify", "stripe", "mcp", "ai", "ecommerce"]

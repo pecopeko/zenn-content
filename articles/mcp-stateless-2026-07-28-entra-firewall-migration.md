@@ -3,7 +3,7 @@ title: "Stateless MCP 2026-07-28移行とEntra MCP Firewall10項目監査"
 emoji: "🛡️"
 type: "tech"
 topics: ["mcp", "security", "azure", "cloudflare", "python"]
-published: true
+published: false
 ---
 
 Linux Foundation 傘下の **AAIF（Agentic AI Foundation）** による **Stateless MCP `2026-07-28` 仕様** と、2026年11月の **Microsoft Ignite** で発表された **Enterprise MCP Firewall（Entra Agent ID / Azure API Management / Cloudflare Workers / Envoy L7 連携）** により、社内・本番環境での Model Context Protocol（MCP）運用アーキテクチャは大きな転換点を迎えています。

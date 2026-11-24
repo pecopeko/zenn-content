@@ -197,3 +197,4 @@ https://pecopeko1011.booth.pm/items/9179705
 
 - **Zenn Book『ローカル完結AIコンプライアンスガード＆実証検証設計ガイド』（¥1,200）**：
 https://zenn.dev/pecopeko/books/afml-quant-and-local-ai-guard
+

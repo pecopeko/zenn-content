@@ -405,3 +405,5 @@ https://zenn.dev/pecopeko/books/afml-quant-and-local-ai-guard
 
 - **経理・バックオフィス自動化5点セット Pro キット（Shift-JIS 全銀120B・電帳法PDF一括リネームZIP・支払調書・AI社外秘ガード収録）**：
 https://pecopeko1011.booth.pm/items/9179705
+- **Googleスプレッドシート上でそのまま使える可逆仮名化 `MASK_FOR_AI` / `RESTORE_FROM_AI` カスタム関数セット（note `¥500`）**：
+https://note.com/pecopeko1011/n/ndc17b499c0e6

@@ -167,3 +167,4 @@ def is_valid_nta_t_number(raw: str) -> bool:
 - 本記事の実装リポジトリ（MIT）: [pecopeko/hybrid-llm-reversible-router](https://github.com/pecopeko/hybrid-llm-reversible-router)
 - ローカルAI機密ガード＆Python検証設計の体系書（Zenn Book）: [Pythonで実装する日本株バックテスト監査 — 過学習・リーク・Uniform-Cap・MDA剪定](https://zenn.dev/pecopeko/books/afml-quant-and-local-ai-guard)
 - バックオフィス実務（令和8年年末調整・インボイス5割控除・T番号検算）の数式＆自動化キット: [note版（スプシ数式＆GAS）](https://note.com/pecopeko1011/n/nbc8b162c7edb) / [BOOTH版（オフラインHTMLツール5点セット）](https://pecopeko1011.booth.pm/items/9179705)
+- スプレッドシート上でそのまま使える可逆AI仮名化カスタム関数（note）: [ChatGPT/Claude送信前に社名・メアド・個人名を自動で「仮名化→AI回答を一発復元」するスプシGASセット](https://note.com/pecopeko1011/n/ndc17b499c0e6)

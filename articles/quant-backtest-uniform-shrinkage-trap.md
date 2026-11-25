@@ -504,3 +504,5 @@ def apply_3tier_conviction_sizing(
 
 https://zenn.dev/pecopeko/books/afml-quant-and-local-ai-guard
 
+- **東証 Arrowhead 呼値（TOPIX500細分化）・34段階値幅制限（S高/S安バイアス除去）・15:30クロージング板寄せ Python 3.11 SDK（itch.io Global Edition）**：
+https://pecopeko.itch.io/tse-quant-microstructure-kit
